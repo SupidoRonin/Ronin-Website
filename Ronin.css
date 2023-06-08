@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap');
 body{
-    background: url(RoninW.png);
+    background: url(images/Wall.jpg) no-repeat;
 }
 
 html{
@@ -63,13 +63,12 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    /* background: url(images/background1.png) no-repeat; */
+    background: url(images/Wall.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-color: #1f2833;
     justify-content: center;
-    background: url(../Images/Wall.jpg);
 }
 
 .main h2{
@@ -169,7 +168,7 @@ section{
 
 
 .Games{
-    background: url(../Images/Wall.jpg);
+    background: url(images/Wall.jpg) no-repeat;
 }
 
 .Games .title {
@@ -264,7 +263,7 @@ section{
 }
 
 .footer{
-    background: url(../Images/Wall.jpg);
+    background: url(images/Wall.jpg) no-repeat;
     color: #ffffff;
     padding: 1em;
     display: flex;
