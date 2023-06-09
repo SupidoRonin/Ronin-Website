@@ -58,7 +58,7 @@ section{
     display: flex;
     align-items: center;
     justify-content: center;
-    background:  linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)),url(YellowWall.jpg) no-repeat;
+    background:  linear-gradient(rgba(0, 0, 0, 0.80), rgba(0, 0, 0, 0.80)),url(../Images/YellowWall.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
